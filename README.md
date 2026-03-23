@@ -66,10 +66,4 @@ class EmbodiedAIResearcher:
 
 *"The best way to predict the future is to build it."*
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Noietch&color=2e9ef7&style=for-the-badge&label=Profile+Views)
-
-**⭐ From [Noietch](https://github.com/Noietch) with 🤖**
-
 </div>
