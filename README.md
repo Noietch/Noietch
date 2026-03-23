@@ -7,9 +7,6 @@
 ### 🔭 Currently Working On
 **Embodied Intelligence** · **Robot Learning** · **Vision-Language-Action Models**
 
-[![EPOG](https://img.shields.io/badge/🚀_EPOG-Integrated_Exploration-blue?style=for-the-badge)](https://github.com/Noietch/epog)
-[![ResearchClaw](https://img.shields.io/badge/🔬_ResearchClaw-AI_Research_Tool-green?style=for-the-badge)](https://github.com/Noietch/ResearchClaw)
-
 </div>
 
 ---
