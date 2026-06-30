@@ -11,35 +11,6 @@
 
 ---
 
-## 🤖 Research Interests
-
-```python
-class EmbodiedAIResearcher:
-    def __init__(self):
-        self.name = "HQYang"
-        self.location = "Beijing, China 🇨🇳"
-        self.education = "Beihang University (BUAA)"
-        self.focus_areas = [
-            "Embodied AI & Robot Learning",
-            "Vision-Language-Action Models",
-            "Open-Vocabulary Object Detection",
-            "Scene Understanding & Navigation",
-            "Multi-Modal Perception"
-        ]
-
-    def current_projects(self):
-        return {
-            "EPOG": "Integrated Exploration and Sequential Manipulation on Scene Graphs",
-            "ResearchClaw": "AI-Powered Research Assistant Desktop App",
-            "Embodied_Intelligence": "Building agents that perceive, reason, and act"
-        }
-
-    def daily_routine(self):
-        return ["🔬 Research", "💻 Code", "📚 Read Papers", "🤔 Think", "🚀 Build"]
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
