@@ -24,7 +24,7 @@
 
 ### 🧑‍🎓 About Me
 
-I'm **Heqing Yang (杨鹤庆)**, a first-year Ph.D. student at the [**School of Artificial Intelligence**](https://ai.buaa.edu.cn/), [**Beihang University (BUAA)**](https://www.buaa.edu.cn/), advised by Prof. [**Si Liu**](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) and Prof. [**Linjiang Huang**](https://scholar.google.com/citations?user=j5rBSw0AAAAJ). I earned my B.S. in Software Engineering from BUAA (GPA 3.93/4.0, rank 8/187).
+I'm **Heqing Yang (杨和青)**, a first-year Ph.D. student at the [**School of Artificial Intelligence**](https://ai.buaa.edu.cn/), [**Beihang University (BUAA)**](https://www.buaa.edu.cn/), advised by Prof. [**Si Liu**](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) and Prof. [**Linjiang Huang**](https://scholar.google.com/citations?user=j5rBSw0AAAAJ).
 
 My research sits at the intersection of **embodied intelligence** and **robotics** — I care about giving robots the *scene understanding*, *long-horizon reasoning*, and *low-level control* they need to act reliably in the real world.
 
