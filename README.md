@@ -24,8 +24,4 @@
 
 ### 🧑‍🎓 About Me
 
-I'm **Heqing Yang (杨和青)**, a first-year Ph.D. student at the [**School of Artificial Intelligence**](https://ai.buaa.edu.cn/), [**Beihang University (BUAA)**](https://www.buaa.edu.cn/), advised by Prof. [**Si Liu**](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) and Prof. [**Linjiang Huang**](https://scholar.google.com/citations?user=j5rBSw0AAAAJ).
-
-My research sits at the intersection of **embodied intelligence** and **robotics** — I care about giving robots the *scene understanding*, *long-horizon reasoning*, and *low-level control* they need to act reliably in the real world.
-
-> 🔎 Full CV, news and publication list live on my [**homepage →**](https://noietch.github.io/)
+I'm **Heqing Yang (杨和青)**, a first-year Ph.D. student at the [**School of Artificial Intelligence**](https://ai.buaa.edu.cn/), [**Beihang University (BUAA)**](https://www.buaa.edu.cn/), advised by Prof. [**Si Liu**](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) and Prof. [**Linjiang Huang**](https://scholar.google.com/citations?user=j5rBSw0AAAAJ). I'm interested in **full-stack robotics** — from low-level control and perception all the way up to high-level planning and reasoning — and in building complete systems that actually work in the real world. Full CV, news and publication list live on my [**homepage →**](https://noietch.github.io/)
