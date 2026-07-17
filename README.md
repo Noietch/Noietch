@@ -15,7 +15,7 @@
   <a href="https://noietch.github.io/"><img src="https://img.shields.io/badge/Homepage-1a73e8?style=flat-square&logo=googlechrome&logoColor=white" alt="homepage"/></a>
   <a href="mailto:yangheqing@buaa.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://github.com/Noietch"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Noietch&label=Visitors&color=2E9EF7&style=flat-square" alt="visitors"/>
+  <a href="https://colalab.net/"><img src="https://img.shields.io/badge/Lab-CoLA%20%40%20BUAA-4b6cb7?style=flat-square" alt="lab"/></a>
 </p>
 
 </div>
@@ -24,11 +24,11 @@
 
 ### 🧑‍🎓 About Me
 
-I'm **Heqing Yang (杨鹤庆)**, a first-year Ph.D. student at the **School of Artificial Intelligence, Beihang University (BUAA)**, advised by Prof. **Si Liu** and Prof. **Linjiang Huang**. I earned my B.S. in Software Engineering from BUAA (GPA 3.93/4.0, rank 8/187).
+I'm **Heqing Yang (杨鹤庆)**, a first-year Ph.D. student at the [**School of Artificial Intelligence**](https://ai.buaa.edu.cn/), [**Beihang University (BUAA)**](https://www.buaa.edu.cn/), advised by Prof. [**Si Liu**](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) and Prof. [**Linjiang Huang**](https://scholar.google.com/citations?user=j5rBSw0AAAAJ). I earned my B.S. in Software Engineering from BUAA (GPA 3.93/4.0, rank 8/187).
 
 My research sits at the intersection of **embodied intelligence** and **robotics** — I care about giving robots the *scene understanding*, *long-horizon reasoning*, and *low-level control* they need to act reliably in the real world.
 
-> 🔎 Full CV, news and publication list live on my <a href="https://noietch.github.io/"><b>homepage →</b></a>
+> 🔎 Full CV, news and publication list live on my [**homepage →**](https://noietch.github.io/)
 
 ---
 
@@ -58,12 +58,12 @@ My research sits at the intersection of **embodied intelligence** and **robotics
 
 ### 📚 Selected Work
 
-| Year | Venue | Project | Role |
-| :--: | :---: | :--- | :--: |
-| **2026** | **ICRA** | 🧠 **EPoG** — LLM-based situated replanner over 3D scene graphs | 1st author |
-| **2026** | **IROS** | 🦾 **CR-Solver** — GPU-accelerated kinematics/motion solver for continuum robots | 1st author |
-| **2026** | *tech report* | 🤖 **EVA-Client** — a unified framework for deployment, evaluation & data collection on real robots | lead dev |
-| **2022** | *engineering* | 🦿 **BRBOTS** — 18-DoF real-time gait-driven humanoid biped | team lead |
+| Year | Venue | Project | Links |
+| :--: | :---: | :--- | :--- |
+| **2026** | **ICRA** | 🧠 **EPoG** — LLM-based situated replanner over 3D scene graphs | [page](https://colalab.net/projects/epog/) · [code](https://github.com/buaa-colalab/EPoG) · [arXiv](https://arxiv.org/abs/2602.04419) |
+| **2026** | **IROS** | 🦾 **CR-Solver** — GPU-accelerated kinematics/motion solver for continuum robots | [page](https://noietch.github.io/projects/crsolver/) · [code](https://github.com/Noietch/CR-Solver) · [arXiv](https://arxiv.org/abs/2607.11340) |
+| **2026** | *report* | 🤖 **EVA-Client** — a unified framework for deployment, evaluation & data collection on real robots | [page](https://colalab.net/projects/eva-client/) · [code](https://github.com/Noietch/EVA-CLIENT) · [pdf](https://colalab.net/projects/eva-client/paper/EVA_Client_Report.pdf) |
+| **2022** | *engineering* | 🦿 **BRBOTS** — 18-DoF real-time gait-driven humanoid biped | [page](https://noietch.github.io/projects/brbots/) |
 
 <sub>🏆 2nd place (2/62) · RoCo Challenge @ AAAI 2026 &nbsp;·&nbsp; 🥇 1st Prize · RoboCon 2021 & 2022 &nbsp;·&nbsp; 🌏 2nd Prize · RoboCup Asia-Pacific 2021</sub>
 
@@ -71,8 +71,8 @@ My research sits at the intersection of **embodied intelligence** and **robotics
 
 ### 💼 Experience
 
-- 🍜 **Meituan · LongCat Team** — Research Intern, robot foundation models *(Oct 2025 – Present)*
-- 🧩 **BIGAI** — Research Intern, long-horizon planning on 3D scene graphs *(Mar 2024 – Jan 2025)*
+- 🍜 [**Meituan · LongCat Team**](https://longcat.ai) — Research Intern, robot foundation models *(Oct 2025 – Present)*
+- 🧩 [**BIGAI**](https://www.bigai.ai/) — Research Intern, long-horizon planning on 3D scene graphs *(Mar 2024 – Jan 2025)*
 - 🦾 **BUAA Robotics Team** — Team Leader, BRBOTS humanoid biped *(Dec 2020 – Sep 2023)*
 
 ---
@@ -94,29 +94,10 @@ My research sits at the intersection of **embodied intelligence** and **robotics
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Noietch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noietch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=340"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Noietch&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165em"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Noietch&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-
-</div>
-
----
-
 <div align="center">
 
 <sub>💭 <i>"The best way to predict the future is to build it."</i></sub>
 
-<sub>Made with ☕ in Beijing · Last touched 2026</sub>
+<sub>Made with ☕ in Beijing</sub>
 
 </div>
